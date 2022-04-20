@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto está sob a licença MIT. Veja o arquivo para mais detalhes.
 
 ## Link
-Acesse: <a href="https://ozera1.github.io/desafio-treine.me/" target="_blank">CLIQUE AQUI</a>
+Acesse: <a href="https://strkalec.github.io/Rocket-Sect/" target="_blank">CLIQUE AQUI</a>
 
 ---
 Feito com ♥ by Gabriel Miranda
